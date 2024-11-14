@@ -1,1 +1,1 @@
-https://app.netlify.com/sites/charming-panda-89280a/overview
+https://charming-panda-89280a.netlify.app/
